@@ -1,7 +1,7 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
 import GetStarted from "./GetStarted";
-import specialStyle from './specialhover.module.css'
+
 
 const Hero = () => {
   return (
